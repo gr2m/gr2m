@@ -10,6 +10,7 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 
 - 📅 Thursday, April 29 @ 1pm PT - [GitHub Enterprise repository auditing](https://github.com/gr2m/helpdesk/issues/1) with [@jeffwilcox](https://github.com/jeffwilcox)
 
-### Recent shows
+### Past shows
 
-- [Creating and publishing a GitHub Action with JavaScript from scratch](https://www.youtube.com/watch?v=7UZxq91nYdk)
+- [Octokit automation: OpenAPI](https://github.com/gr2m/helpdesk/issues/5)
+- [Creating and publishing a GitHub Action with JavaScript from scratch](https://github.com/gr2m/helpdesk/issues/4)
