@@ -6,6 +6,10 @@ If you have any questions about GitHub's APIs or automation, and you think it wo
 
 You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.com/gr2m)
 
+### Upcoming shows
+
+- 📅 Thursday, April 29 @ 1pm PT - [GitHub Enterprise repository auditing](https://github.com/gr2m/helpdesk/issues/1) with [@jeffwilcox](https://github.com/jeffwilcox)
+
 ### Recent shows
 
 - [Creating and publishing a GitHub Action with JavaScript from scratch](https://www.youtube.com/watch?v=7UZxq91nYdk)
