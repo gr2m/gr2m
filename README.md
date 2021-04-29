@@ -9,6 +9,7 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 ### Upcoming shows
 
 - 📅 Thursday, April 29 @ 1pm PT - [GitHub Enterprise repository auditing](https://github.com/gr2m/helpdesk/issues/1) with [@jeffwilcox](https://github.com/jeffwilcox)
+- [📅 5/3 @ noon PT - GitHub Action Artifacts with @reconbot](https://github.com/gr2m/helpdesk/issues/7)
 
 ### Past shows
 
