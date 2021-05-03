@@ -8,7 +8,8 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 
 ### Upcoming shows
 
-- [📅 5/3 @ noon PT - GitHub Action Artifacts with @reconbot](https://github.com/gr2m/helpdesk/issues/7)
+- 📅 5/3 @ noon PT - [GitHub Action Artifacts](https://github.com/gr2m/helpdesk/issues/7) with [@reconbot](https://github.com/reconbot)
+- 📅 5/6 @ 1pm PT - [Script Kit meets Octoherd](https://github.com/gr2m/helpdesk/issues/8) with [@johnlindquist](https://github.com/johnlindquist)
 
 ### Past shows
 
