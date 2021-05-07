@@ -8,11 +8,12 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 
 ### Upcoming shows
 
-- 📅 5/6 @ 1pm PT - [Script Kit meets Octokit](https://github.com/gr2m/helpdesk/issues/8) with [@johnlindquist](https://github.com/johnlindquist)
+- 📅 5/10 @ noon PT - [Automating gr2m/helpdesk, Episode I](https://github.com/gr2m/helpdesk/issues/10)
 
 ### Past shows
 
+- [Script Kit meets Octokit](https://github.com/gr2m/helpdesk/issues/8) with [@johnlindquist](https://github.com/johnlindquist)
 - [GitHub Action Artifacts](https://github.com/gr2m/helpdesk/issues/7) with [@reconbot](https://github.com/reconbot)
-- [GitHub Enterprise repository auditing](https://github.com/gr2m/helpdesk/issues/1) with [@jeffwilcox](https://github.com/jeffwilcox)
+- [GitHub Enterprise repository auditing with @jeffwilcox](https://github.com/gr2m/helpdesk/issues/1)
 - [Octokit automation: OpenAPI](https://github.com/gr2m/helpdesk/issues/5)
-- [Creating and publishing a GitHub Action with JavaScript from scratch](https://github.com/gr2m/helpdesk/issues/4)
+- [Create a `cowsay` GitHub Action with JavaScript](https://github.com/gr2m/helpdesk/issues/4)
