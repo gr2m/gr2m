@@ -9,11 +9,11 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 <!--START_SECTION:helpdesk-shows-->
 
 
-## Upcoming
+## Upcoming shows
 
 - 📅 5/18 @ 10:30am PT — [Learn with Jason: GitHub Automation with Octokit](https://github.com/gr2m/helpdesk/issues/11)
 
-## Past
+## Past shows
 
 - [Automating gr2m/helpdesk, Episode I](https://github.com/gr2m/helpdesk/issues/10)
 - [Script Kit meets Octokit](https://github.com/gr2m/helpdesk/issues/8) with [@johnlindquist](https://github.com/johnlindquist)
