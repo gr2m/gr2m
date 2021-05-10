@@ -11,10 +11,11 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 
 ## Upcoming
 
-- 📅 5/10 @ noon PT — [Automating gr2m/helpdesk, Episode I](https://github.com/gr2m/helpdesk/issues/10)
+
 
 ## Past
 
+- [Automating gr2m/helpdesk, Episode I](https://github.com/gr2m/helpdesk/issues/10)
 - [Script Kit meets Octokit](https://github.com/gr2m/helpdesk/issues/8) with [@johnlindquist](https://github.com/johnlindquist)
 - [GitHub Action Artifacts](https://github.com/gr2m/helpdesk/issues/7) with [@reconbot](https://github.com/reconbot)
 - [Octokit automation: OpenAPI](https://github.com/gr2m/helpdesk/issues/5)
