@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm the maintainer of [the JavaScript Octokit](https://github.com/octokit/octokit.js/) – GitHub's official JavaScript SDK.
 
