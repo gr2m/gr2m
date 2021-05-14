@@ -12,7 +12,7 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 ## Upcoming shows
 
 - 📅 5/17 @ noon PT — [Automating gr2m/helpdesk, Episode II](https://github.com/gr2m/helpdesk/issues/14)
-- 📅 5/18 @ 10:30am PT — [Learn with Jason: GitHub Automation with Octokit](https://github.com/gr2m/helpdesk/issues/11)
+- 📅 5/18 @ 10:30am PT — [Learn with Jason: GitHub Automation with Octokit](https://github.com/gr2m/helpdesk/issues/11) with [jlengstorf](https://github.com/lengstorf)
 
 ## Past shows
 
