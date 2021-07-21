@@ -11,7 +11,7 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 
 ## Upcoming shows
 
-
+- 📅 7/30 @ 9am PT — [Running scheduled GitHub App tasks using Actions](https://github.com/gr2m/helpdesk/issues/38)
 
 ## Past shows
 
