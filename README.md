@@ -11,10 +11,11 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 
 ## Upcoming shows
 
-- 📅 8/5 @ 10am PT — [Automating gr2m/helpdesk: issue forms part II](https://github.com/gr2m/helpdesk/issues/42)
+
 
 ## Past shows
 
+- [Automating gr2m/helpdesk: issue forms part II](https://github.com/gr2m/helpdesk/issues/42)
 - [Running scheduled GitHub App tasks using Actions](https://github.com/gr2m/helpdesk/issues/38)
 - [Automating gr2m/helpdesk: issue forms](https://github.com/gr2m/helpdesk/issues/34)
 - [How to update lock files silently (Part III)](https://github.com/gr2m/helpdesk/issues/32)
