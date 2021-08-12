@@ -11,7 +11,7 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 
 ## Upcoming shows
 
-
+- 📅 8/12 @ 10:00am PT — [Automating gr2m/helpdesk: Issue Forms part III](https://github.com/gr2m/helpdesk/issues/45)
 
 ## Past shows
 
