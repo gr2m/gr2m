@@ -11,6 +11,7 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 
 ## Upcoming shows
 
+- 📅 8/26 @ 10:00am PT — [Creating tests for actions for faster iteration Part II](https://github.com/gr2m/helpdesk/issues/47)
 - 📅 8/19 @ 10:00am PT — [Creating tests for actions for faster iteration](https://github.com/gr2m/helpdesk/issues/46)
 
 ## Past shows
