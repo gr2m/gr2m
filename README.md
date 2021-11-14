@@ -11,7 +11,7 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 
 ## Upcoming shows
 
-
+- 📅 11/14 @ 12:30pm PT — [code walkthrough: `nock`](https://github.com/gr2m/helpdesk/issues/53)
 
 ## Past shows
 
