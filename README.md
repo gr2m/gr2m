@@ -11,7 +11,7 @@ You can also ask and follow me on Twitter: [twitter.com/gr2m](https://twitter.co
 
 ## Upcoming shows
 
-
+- 📅 12/26 @ 12:00pm PT — [Refactoring a 10+ years old code base: nock (Part VII)](https://github.com/gr2m/helpdesk/issues/60)
 
 ## Past shows
 
